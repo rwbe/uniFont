@@ -6,7 +6,7 @@ Transforme texto simples em estilos de tipografia Unicode.
 
 Veja abaixo um exemplo de como o UniFont transforma o texto:
 
-![Demonstração do UniFont](public\screenshot.png)
+![Demonstração do UniFont](public/screenshot.png)
 
 ## 🌟 Funcionalidades
 
